@@ -1,0 +1,9 @@
+{
+    "name": "BraveNewWorkshop",
+    "version": "1.1.0",
+    "title": "Brave new Workshop",
+    "author": "Wartank",
+    "factorio_version": "1.1",
+    "dependencies": ["stdlib >= 1.0.0"],
+    "description": "A workaround for recipies you can normally only craft by hand"
+}
